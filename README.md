@@ -1,6 +1,6 @@
 # HW1_Box_Office_Revenue_Prediction
 
-This code is for an assignment for the course: Laboratory analysis and presentation of data. 
+This code is for an assignment for the course: Laboratory Analysis and Presentation of Data. 
 
 In this project we used data about movies in order to predict the global revenue of the movies in the theaters. 
 The data includes 5215 train samples, and 1738 test samples. 
