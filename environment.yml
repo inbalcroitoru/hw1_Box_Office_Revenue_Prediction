@@ -1,0 +1,10 @@
+name: hw1_env
+dependencies:
+  - python=3.8 
+  - nb_conda 
+  - notebook 
+  - pip 
+  - pip:
+    - scikit-learn==0.23.2 
+    - pandas==1.2.4
+    - numpy==1.20.3 
