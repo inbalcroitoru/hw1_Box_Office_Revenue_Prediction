@@ -12,7 +12,8 @@ This repository includes:
 4. f_tuned_et_best.sav - pickle file with ExtraTreesRegressor trained model. 
 5. tuned_f.zip - zip file that includes a pickle file with RandomForestRegressor traind model. This was uploaded as a zip file since the pickle file was too large for uploading it to the repository. predict.py unzip this file and extract the model from it. 
 6. HW1_report.html- a report for this project. The report includes: EDA, feature engineering, training and evaluating models, choosing and ensembling models, and saving the final models. 
-7. HW1_report.ipynb- same as HW1_report.html, in a ipynb format. 
+7. HW1_report.ipynb - same as HW1_report.html, in a ipynb format. 
+8. instructions.pdf - instructions for the assignment. 
 
 
 In order to run the code, please run predict.py 
